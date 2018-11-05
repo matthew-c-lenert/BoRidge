@@ -2,7 +2,7 @@
 # This software (PyBoRidge) was written by Matthew C Lenert for Vanderbilt University (Copyright 2018)
 # Use of this software for commercial purposes is strictly prohibitted
 # This software is meant for academic and/or research purposes only and use should be accompanied with a citation to:
-"Lenert MC, Walsh CG. Balancing Performance and Interpretability: Selecting Features with Bootstrapped Ridge Regression. AMIA . Annu Symp proceedings AMIA Symp. 2018. 2018."
+# "Lenert MC, Walsh CG. Balancing Performance and Interpretability: Selecting Features with Bootstrapped Ridge Regression. AMIA . Annu Symp proceedings AMIA Symp. 2018. 2018."
 # This is a personal use lisence, the author is not responsible for any modifications made by the user
 #
 # Required dependancies: datetime, decimal, joblib, math, numpy, os, pandas, re, scipy, shutil, sklearn, sys, tempfile, time, traceback
