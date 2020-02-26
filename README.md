@@ -35,7 +35,7 @@ cores: the number of threads you wish to use for bootstrapping. Default is 1
 
 correlationThreshold: predictors that are highly correlated with one another can be automatically removed. Set the threshold for the correlation coefficient for predictors to be removed. Default is 1. Range is from [0,1]
 
-typesOfModels: the types of models to evaluate performance on. This parameter requires an array of strings. Default is ['L1','RF','SVM']. L1 = Lasso Regression, RF=Random Forest, and SVM = support vector machine
+typesOfModels: the types of models to evaluate performance on. This parameter requires an array of strings. Default is ['L2','RF','SVM']. L2 = Ridge Regression, RF=Random Forest, and SVM = support vector machine
 
 printProgress: produce verbose output of where the program is in execution. Default is False
 
